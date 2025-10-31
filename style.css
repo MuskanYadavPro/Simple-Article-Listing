@@ -14,7 +14,7 @@ h1 {
   color: #111827;
   font-size: 2rem;
   font-weight: 700;
-  margin-bottom: 8px;
+  margin-bottom: 30px;
 }
 
 /* Separator styling */
@@ -67,6 +67,7 @@ h1 {
 .articles .date {
   color: #6b7280;
   font-size: 0.85rem;
+  font-weight:550;
 }
 
 /* Footer */
@@ -82,4 +83,3 @@ footer a {
   text-decoration: none;
   font-weight: 500;
 }
-
