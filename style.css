@@ -14,7 +14,7 @@ h1 {
   color: #111827;
   font-size: 2rem;
   font-weight: 700;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 /* Separator styling */
@@ -29,6 +29,7 @@ h1 {
   flex-direction: column;
   gap: 36px;
   width: 100%;
+  min-height: 400px; /* Prevent layout jumps */
 }
 
 /* Each article row */
@@ -67,7 +68,7 @@ h1 {
 .articles .date {
   color: #6b7280;
   font-size: 0.85rem;
-  font-weight:550;
+  font-weight: 550;
 }
 
 /* Footer */
