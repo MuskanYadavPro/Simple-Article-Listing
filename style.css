@@ -41,8 +41,8 @@ h1 {
 
 /* Article images */
 .articles img {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   border-radius: 12px;
   object-fit: cover;
   flex-shrink: 0;
@@ -84,3 +84,4 @@ footer a {
   text-decoration: none;
   font-weight: 500;
 }
+
